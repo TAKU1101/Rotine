@@ -4,7 +4,6 @@
 
 ```
 pip install pyautogui
-pip install screeninfo
 pip install pillow
 ```
 
